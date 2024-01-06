@@ -1,0 +1,7 @@
+export const VALUES = {
+    TOKEN: 'TOKEN',
+    IS_INTRO_SEEN: 'IS_INTRO_SEEN',
+    IS_LOGGEDIN: 'IS_LOGGEDIN',
+    ROLE: 'ROLE',
+    USERNAME: 'USERNAME',
+}
